@@ -11,7 +11,10 @@
 ### 1. Binary Classification - Image Classification
 -------
 #### 1st level. Titanic competition(https://https://www.kaggle.com/c/titanic)
-+ 1st kernel (http://kagglekr.tistory.com/category/Kaggle%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC/Titanic%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
++ 1st kernel (https://kaggle-kr.tistory.com/17?category=868316)
++ 2nd kernel (https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
++ 3rd kernel (https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
++ 4th kernel (https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 ### 2. Multi-class Classification - Image Classification
 -------
