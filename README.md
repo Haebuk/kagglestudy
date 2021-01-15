@@ -9,7 +9,7 @@
 ## 목차
 
 ### 1. Binary Classification - Image Classification
-#### + 1st level. Titanic competition(https://https://www.kaggle.com/c/titanic)
+#### 1st level. Titanic competition(https://https://www.kaggle.com/c/titanic)
 
 ### 2. Multi-class Classification - Image Classification
 
