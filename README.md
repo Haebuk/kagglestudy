@@ -9,16 +9,26 @@
 ## 목차
 
 ### 1. Binary Classification - Image Classification
+-------
 #### 1st level. Titanic competition(https://https://www.kaggle.com/c/titanic)
++ 1st kernel (http://kagglekr.
+tistory.com/category/Kaggle%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC/Titanic%20%ED%8A%9C%ED%86%A0%EB%A6%A
+C%EC%96%BC)
 
 ### 2. Multi-class Classification - Image Classification
+-------
 
 ### 3. Audio recognition
+-------
 
 ### 4. Regression
+-------
 
 ### 5. Object Segmentation
+-------
 
 ### 6. Natural Language Processing - Classification, Regression
+-------
 
 ### 7.Other Dataset - Anomaly Detection, visualiztion
+-------
