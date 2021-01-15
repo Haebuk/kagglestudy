@@ -8,20 +8,20 @@
 
 해당 커리큘럼은 각 커널당 3번씩 필사하는 것을 목표로 합니다.
 
-### 목차
+## 목차
 
 ---------
 
-1. Binary Classification - Image Classification
+### 1. Binary Classification - Image Classification
 
-2. Multi-class Classification - Image Classification
+### 2. Multi-class Classification - Image Classification
 
-3. Audio recognition
+### 3. Audio recognition
 
-4. Regression
+### 4. Regression
 
-5. Object Segmentation
+### 5. Object Segmentation
 
-6. Natural Language Processing - Classification, Regression
+### 6. Natural Language Processing - Classification, Regression
 
-7.Other Dataset - Anomaly Detection, visualiztion
+### 7.Other Dataset - Anomaly Detection, visualiztion
