@@ -1,5 +1,7 @@
 # 캐글 스터디
 
+---------
+
 본 캐글 스터디는 '커널 커리큘럼'을 참고합니다.
 
 (커널 커리큘럼 작성자 이유한님 - https://www.kaggle.com/youhanlee)
@@ -7,6 +9,8 @@
 해당 커리큘럼은 각 커널당 3번씩 필사하는 것을 목표로 합니다.
 
 ### 목차
+
+---------
 
 1. Binary Classification - Image Classification
 
