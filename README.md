@@ -6,21 +6,20 @@
 
 ### 해당 커리큘럼은 각 커널당 3번씩 필사하는 것을 목표로 합니다.
 ------
-스터디원은 총 7명으로, 각자 그날의 과제에 대해 레퍼지토리에 업로드를 목표로 하고 있습니다. (2021/01/18 시작)
+스터디원은 총 6명으로, 각자 그날의 과제에 대해 레퍼지토리에 업로드를 목표로 하고 있습니다. (2021/01/18 시작)
 + 김현하
 + 시온
 + 유재성
 + 이동훈
 + 이희주
-+ 임동혁
 + H00
 
 ## 목차
 
 ### 1. Binary Classification - Tabular data
   ####  1st level. Titanic competition (https://https://www.kaggle.com/c/titanic)
-  + 1st kernel (https://kaggle-kr.tistory.com/17?category=868316, 
-  <br>https://kaggle-kr.tistory.com/18?category=868316)
+  + 1st kernel ~~(https://kaggle-kr.tistory.com/17?category=868316,~~  (2021-01-18) 
+  <br> ~~https://kaggle-kr.tistory.com/18?category=868316)~~  (2021-01-19)
   + 2nd kernel (https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
   + 3rd kernel (https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
   + 4th kernel (https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
