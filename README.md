@@ -31,8 +31,8 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
   + 3rd kernel ~~(https://www.kaggle.com/aharless/xgboost-cv-lb-284)~~  (2021-01-27)
   + 4th kernel ~~(https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)~~  (2021-01-28)
   #### 3rd level. Home credit competition (https://www.kaggle.com/c/home-credit-default-risk)
-  + 1st kernel (https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
-  + 2nd kernel (https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)
+  + 1st kernel ~~(https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)~~  (2021-01-29)
+  + 2nd kernel ~~(https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)~~  (2021-02-01)
   + 3rd kernel (https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
   + 4th kernel (https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution)
 
