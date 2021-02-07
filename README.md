@@ -34,13 +34,13 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
   + 1st kernel ~~(https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)~~  (2021-01-29)
   + 2nd kernel ~~(https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)~~  (2021-02-01)
   + 3rd kernel ~~(https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)~~  (2021-02-02)
-  + 4th kernel ~~(https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution)~~  (2021-02-02)
+  + 4th kernel ~~(https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution)~~  (2021-02-02 ~ 2021-02-03)
 
 ### 2. Multi-class Classification - Tabular data
 -------
   #### 1st level. Costa-rican competition (https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
-  + 1st kernel (https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
-  + 2nd kernel (https://www.kaggle.com/youhanlee/3250feats-532-feats-using-shap-lb-0-436)
+  + 1st kernel ~~(https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)~~  (2021-02-04)
+  + 2nd kernel ~~(https://www.kaggle.com/youhanlee/3250feats-532-feats-using-shap-lb-0-436)~~  (2021-02-05)
   + 3rd kernel (https://www.kaggle.com/skooch/xgboost)
 ### 3. Binary Classification - Image classification
 -----
