@@ -41,7 +41,7 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
   #### 1st level. Costa-rican competition (https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
   + 1st kernel ~~(https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)~~  (2021-02-04)
   + 2nd kernel ~~(https://www.kaggle.com/youhanlee/3250feats-532-feats-using-shap-lb-0-436)~~  (2021-02-05)
-  + 3rd kernel (https://www.kaggle.com/skooch/xgboost)
+  + 3rd kernel ~~(https://www.kaggle.com/skooch/xgboost)~~  (2021-02-08)
 ### 3. Binary Classification - Image classification
 -----
   #### 1st level. Statoil competition (https://www.kaggle.com/c/statoiliceberg-classifier-challenge)
