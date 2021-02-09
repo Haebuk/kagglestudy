@@ -44,7 +44,7 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
   + 3rd kernel ~~(https://www.kaggle.com/skooch/xgboost)~~  (2021-02-08)
 ### 3. Binary Classification - Image classification
 -----
-  #### 1st level. Statoil competition (https://www.kaggle.com/c/statoiliceberg-classifier-challenge)
+  #### 1st level. Statoil competition (https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
   + 1st kernel (https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
   + 2nd kernel (https://www.kaggle.com/devm2024/transfer-learning-with-vgg-16-cnn-aug-lb-0-1712)
   + 3rd kernel (https://www.kaggle.com/submarineering/submarineering-even-better-public-score-until-now)
