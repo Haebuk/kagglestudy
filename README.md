@@ -45,10 +45,9 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
 ### 3. Binary Classification - Image classification
 -----
   #### 1st level. Statoil competition (https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
-  + 1st kernel (https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
-  + 2nd kernel (https://www.kaggle.com/devm2024/transfer-learning-with-vgg-16-cnn-aug-lb-0-1712)
-  + 3rd kernel (https://www.kaggle.com/submarineering/submarineering-even-better-public-score-until-now)
-  + 4th kernel (https://www.kaggle.com/wvadim/keras-tf-lb-0-18)
+  + 1st kernel ~~(https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)~~  (2021-02-09)
+  + 2nd kernel ~~(https://www.kaggle.com/devm2024/transfer-learning-with-vgg-16-cnn-aug-lb-0-1712)~~ (2021-02-10)
+  + 3rd kernel ~~(https://www.kaggle.com/wvadim/keras-tf-lb-0-18)~~ (2021-02-11 ~ 2021-02-12)
 ### 4. Multi-class Classification - Image classification
 -----
   #### 1st level. Fruits 360 (https://www.kaggle.com/uciml/mushroom-classification)
