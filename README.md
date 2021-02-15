@@ -51,8 +51,8 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
 ### 4. Multi-class Classification - Image classification
 -----
   #### 1st level. Fruits 360 (https://www.kaggle.com/uciml/mushroom-classification)
-  + 1st kernel (https://www.kaggle.com/amadeus1996/fruits-360-transfer-learning-using-keras)
-  #### 2nd level. Fashion MNIST (https://www.kaggle.com/zalandoresearch/fashionmnist)
+  + 1st kernel ~~(https://www.kaggle.com/amadeus1996/fruits-360-transfer-learning-using-keras)~~ (2021-02-15)
+  #### 2nd level. Fashion MNIST (https://www.kaggle.com/zalando-research/fashionmnist)
   + 1st kernel (https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
   + 2nd kernel (https://www.kaggle.com/bugraokcu/cnn-with-keras)
 
