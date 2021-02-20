@@ -59,8 +59,8 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
 ### 5. Audio recognition
 -------
   #### 1st level. Tensorflow competition (https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
-  + 1st kernel (https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
-  + 2nd kernel (https://www.kaggle.com/alphasis/light-weight-cnn-lb-0-74)
+  + 1st kernel ~~(https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)~~  (2021-02-18)
+  + 2nd kernel ~~(https://www.kaggle.com/alphasis/light-weight-cnn-lb-0-74)~~  (2021-02-19)
   + 3rd kernel (https://www.kaggle.com/kcs93023/tf-speech-recognition-by-cnn)
   + 4th kernel (https://www.kaggle.com/ivallesp/wavception-v1-a-1-d-inception-approach-lb-0-76)
 ### 6. Regression - Tabular data
