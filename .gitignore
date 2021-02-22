@@ -1,5 +1,8 @@
+*.md
+*.txt
 *.xlsx
 *.json
+*.wav
 .ipynb_checkpoints
 * /. ipynb_checkpoints / *
 
