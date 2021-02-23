@@ -61,10 +61,10 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
   #### 1st level. Tensorflow competition (https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
   + 1st kernel ~~(https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)~~  (2021-02-18)
   + 2nd kernel ~~(https://www.kaggle.com/alphasis/light-weight-cnn-lb-0-74)~~  (2021-02-19)
-  + 3rd kernel (https://www.kaggle.com/ivallesp/wavception-v1-a-1-d-inception-approach-lb-0-76)
+  + 3rd kernel ~~(https://www.kaggle.com/ivallesp/wavception-v1-a-1-d-inception-approach-lb-0-76)~~  (2021-02-22)
 ### 6. Regression - Tabular data
 -------
-  #### 1st level. New-York taxi competition (https://www.kaggle.com/c/nyc-taxitrip-duration)
+  #### 1st level. New-York taxi competition (https://www.kaggle.com/c/nyc-taxi-trip-duration)
   + 1st kernel (https://www.kaggle.com/gaborfodor/from-eda-to-the-top-lb-0-367)
   + 2nd kernel (https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)
   + 3rd kernel (https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
