@@ -65,8 +65,8 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
 ### 6. Regression - Tabular data
 -------
   #### 1st level. New-York taxi competition (https://www.kaggle.com/c/nyc-taxi-trip-duration)
-  + 1st kernel (https://www.kaggle.com/gaborfodor/from-eda-to-the-top-lb-0-367)
-  + 2nd kernel (https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)
+  + 1st kernel ~~(https://www.kaggle.com/gaborfodor/from-eda-to-the-top-lb-0-367)~~  (2021-02-23)
+  + 2nd kernel ~~(https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)~~  (2021-02-24)
   + 3rd kernel (https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
   + 4th kernel (https://www.kaggle.com/danijelk/beat-the-benchmark)
   #### 1st level. Zillow competition (https://www.kaggle.com/c/zillow-prize-1)
