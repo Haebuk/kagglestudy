@@ -73,12 +73,12 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
   + 1st kernel ~~(https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)~~  (2021-02-26)
   + 2nd kernel ~~(https://www.kaggle.com/anokas/simple-xgboost-starter-0-0655)~~  (2021-03-01)
   + 3rd kernel ~~(https://www.kaggle.com/viveksrinivasan/zillow-eda-on-missing-values-multicollinearity)~~  (2021-03-01)
-  + 4th kernel (https://www.kaggle.com/aharless/xgboost-lightgbm-and-ols-and-nn)
+  + 4th kernel ~~(https://www.kaggle.com/aharless/xgboost-lightgbm-and-ols-and-nn)~~  (2021-03-02)
 ### 7. Object Segmentation
 -------
   #### 1st level. Data bowl 2018 (https://www.kaggle.com/c/data-science-bowl-2018)
-  + 1st kernel (https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies)
-  + 2nd kernel (https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277)
+  + 1st kernel ~~(https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies)~~  (2021-03-02)
+  + 2nd kernel ~~(https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277)~~  (2021-03-03)
   + 3rd kernel (https://www.kaggle.com/kmader/nuclei-overview-to-submission)
 
 ### 8. Natural Language Processing - Classification, Regression
