@@ -6,7 +6,8 @@
 
 ### 해당 커리큘럼은 각 커널당 3번씩 필사하는 것을 목표로 합니다.
  ------
-_그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
+_그 날 커널의 양과 난이도에 따라 필사량을 조절하고 있습니다._
+_개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.__
 
 스터디원은 총 6명으로, 각자 그날의 과제에 대해 레퍼지토리에 업로드를 목표로 하고 있습니다. (2021/01/18 시작)
 + 김현하
@@ -79,7 +80,7 @@ _그 날 커널의 양에 따라 필사량을 조절하고 있습니다._
   #### 1st level. Data bowl 2018 (https://www.kaggle.com/c/data-science-bowl-2018)
   + 1st kernel ~~(https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies)~~  (2021-03-02)
   + 2nd kernel ~~(https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277)~~  (2021-03-03)
-  + 3rd kernel (https://www.kaggle.com/kmader/nuclei-overview-to-submission)
+  + 3rd kernel ~~(https://www.kaggle.com/kmader/nuclei-overview-to-submission)~~  (2021-03-05)
 
 ### 8. Natural Language Processing - Classification, Regression
 -------
