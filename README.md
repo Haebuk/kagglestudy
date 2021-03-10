@@ -87,7 +87,7 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
 -------
   #### 1st level. Spooky competition (https://www.kaggle.com/c/spooky-author-identification)
   + 1st kernel ~~(https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial)~~  (2021-03-08)
-  + 2nd kernel (https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
+  + 2nd kernel ~~(https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)~~  (2021-03-10)
   + 3rd kernel (https://www.kaggle.com/sudalairajkumar/simple-feature-engg-notebook-spooky-author)
   #### 2nd level. Mercari (https://www.kaggle.com/c/mercari-price-suggestion-challenge)
   + 1st kernel (https://www.kaggle.com/thykhuely/mercari-interactive-eda-topic-modelling)
