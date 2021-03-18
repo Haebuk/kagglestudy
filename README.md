@@ -90,7 +90,7 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
   + 2nd kernel ~~(https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)~~  (2021-03-10)
   + 3rd kernel ~~(https://www.kaggle.com/sudalairajkumar/simple-feature-engg-notebook-spooky-author)~~  (2021-03-12)
   #### 2nd level. Mercari (https://www.kaggle.com/c/mercari-price-suggestion-challenge)
-  + 1st kernel (https://www.kaggle.com/thykhuely/mercari-interactive-eda-topic-modelling)
+  + 1st kernel ~~(https://www.kaggle.com/thykhuely/mercari-interactive-eda-topic-modelling)~~  (2021-03-15)
   + 2nd kernel (https://www.kaggle.com/knowledgegrappler/a-simple-nn-solution-with-keras-0-48611-pl)
   + 3rd kernel (https://www.kaggle.com/rumbok/ridge-lb-0-41944)
   + 4th kernel (https://www.kaggle.com/peterhurford/lgb-and-fm-18th-place-0-40604)
