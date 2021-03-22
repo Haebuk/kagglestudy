@@ -92,7 +92,7 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
   #### 2nd level. Mercari (https://www.kaggle.com/c/mercari-price-suggestion-challenge)
   + 1st kernel ~~(https://www.kaggle.com/thykhuely/mercari-interactive-eda-topic-modelling)~~  (2021-03-15)
   + 2nd kernel ~~(https://www.kaggle.com/knowledgegrappler/a-simple-nn-solution-with-keras-0-48611-pl)~~  (2021-03-17)
-  + 3rd kernel (https://www.kaggle.com/rumbok/ridge-lb-0-41944)
+  + 3rd kernel ~~(https://www.kaggle.com/rumbok/ridge-lb-0-41944)~~  (2021-03-19)
   + 4th kernel (https://www.kaggle.com/peterhurford/lgb-and-fm-18th-place-0-40604)
   #### 3rd level. Toxic competition (https://www.kaggle.com/c/jigsawtoxic-comment-classificationchallenge)
   + 1st kernel (https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras)
