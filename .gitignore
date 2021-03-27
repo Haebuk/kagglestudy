@@ -7,3 +7,8 @@
 * /. ipynb_checkpoints / *
 *.csv
 *.png
+*.tsv
+*.gif
+*.gz
+*.pb
+*.index
