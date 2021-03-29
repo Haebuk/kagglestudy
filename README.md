@@ -97,8 +97,8 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
   #### 3rd level. Toxic competition (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
   + 1st kernel ~~(https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras)~~  (2021-03-24)
   + 2nd kernel ~~(https://www.kaggle.com/jagangupta/stop-the-s-toxic-comments-eda)~~  (2021-03-26)
-  + 3rd kernel (https://www.kaggle.com/tunguz/logistic-regression-with-words-and-char-n-grams)
-  + 4th kernel (https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb)
+  + 3rd kernel ~~(https://www.kaggle.com/tunguz/logistic-regression-with-words-and-char-n-grams)~~  (2021-03-29)
+  + 4th kernel ~~(https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb)~~  (2021-03-29)
 ### 9.Other Dataset - Anomaly Detection, visualiztion
 -------
   #### 1st level. Credit card (https://www.kaggle.com/mlg-ulb/creditcardfraud)
