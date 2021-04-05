@@ -103,7 +103,7 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
 -------
   #### 1st level. Credit card (https://www.kaggle.com/mlg-ulb/creditcardfraud)
   + 1st kernel ~~(https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now)~~ (2021-03-31)
-  + 2nd kernel (https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey)
+  + 2nd kernel ~~(https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey)~~  (2021-04-02)
   #### 2nd level. Kaggle survey(https://www.kaggle.com/kaggle/kaggle-survey-2017)
   + 1st kernel (https://www.kaggle.com/ash316/novice-to-grandmaster)
   + 2nd kernel (https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science)
