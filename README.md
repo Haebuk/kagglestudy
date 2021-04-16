@@ -106,5 +106,5 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
   + 2nd kernel ~~(https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey)~~  (2021-04-02)
   #### 2nd level. Kaggle survey(https://www.kaggle.com/kaggle/kaggle-survey-2017)
   + 1st kernel ~~(https://www.kaggle.com/ash316/novice-to-grandmaster)~~  (2021-04-05 ~ 2021-04-11)
-  + 2nd kernel (https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science)
+  + 2nd kernel ~~(https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science)~~  (2021-04-12 ~ 2012-04-16)
   + 3rd kernel (https://www.kaggle.com/hakkisimsek/plotly-tutorial-1)
