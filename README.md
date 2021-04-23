@@ -99,12 +99,14 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
   + 2nd kernel ~~(https://www.kaggle.com/jagangupta/stop-the-s-toxic-comments-eda)~~  (2021-03-26)
   + 3rd kernel ~~(https://www.kaggle.com/tunguz/logistic-regression-with-words-and-char-n-grams)~~  (2021-03-29)
   + 4th kernel ~~(https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb)~~  (2021-03-29)
-### 9.Other Dataset - Anomaly Detection, visualiztion
+### 9.Other Dataset - Anomaly Detection, visualization
 -------
   #### 1st level. Credit card (https://www.kaggle.com/mlg-ulb/creditcardfraud)
   + 1st kernel ~~(https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now)~~ (2021-03-31)
   + 2nd kernel ~~(https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey)~~  (2021-04-02)
   #### 2nd level. Kaggle survey(https://www.kaggle.com/kaggle/kaggle-survey-2017)
   + 1st kernel ~~(https://www.kaggle.com/ash316/novice-to-grandmaster)~~  (2021-04-05 ~ 2021-04-11)
-  + 2nd kernel ~~(https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science)~~  (2021-04-12 ~ 2012-04-16)
-  + 3rd kernel (https://www.kaggle.com/hakkisimsek/plotly-tutorial-1)
+  + 2nd kernel ~~(https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science)~~  (2021-04-12 ~ 2021-04-16)
+  + 3rd kernel ~~(https://www.kaggle.com/hakkisimsek/plotly-tutorial-1)~~  (2021-04-19 ~ 2021-04-23)
+
++ 시험 기간으로 인해 5월 첫째주 까지 끝내는게 목표!
