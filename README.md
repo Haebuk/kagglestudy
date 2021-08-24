@@ -11,6 +11,8 @@ _그 날 커널의 양과 난이도에 따라 필사량을 조절하고 있습�
 _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다._
 
 스터디원은 총 6명으로, 각자 그날의 과제에 대해 레퍼지토리에 업로드를 목표로 하고 있습니다. (2021/01/18 시작)
+
+2021/04 마무리! 수고하셨습니다 :)
 + 김현하
 + 시온
 + 유재성
@@ -108,5 +110,3 @@ _개강 주(2021-03-02)부터는 협의하에 주 3회로 변경하였습니다.
   + 1st kernel ~~(https://www.kaggle.com/ash316/novice-to-grandmaster)~~  (2021-04-05 ~ 2021-04-11)
   + 2nd kernel ~~(https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science)~~  (2021-04-12 ~ 2021-04-16)
   + 3rd kernel ~~(https://www.kaggle.com/hakkisimsek/plotly-tutorial-1)~~  (2021-04-19 ~ 2021-04-23)
-
-+ 시험 기간으로 인해 5월 첫째주 까지 끝내는게 목표!
